@@ -106,3 +106,8 @@ The models were evaluated using:
 **WED ALSAIARI**
 
 GitHub: https://github.com/wedalsayari
+## 🔗 Project Links
+
+- [View Google Colab Notebook](https://colab.research.google.com/drive/1GftfIHHV0qmzB9s94QMDkncRVJLMGsmV?usp=sharing)
+
+- [View Kaggle Notebook](https://www.kaggle.com/code/allwd2/predicting-heart-disease-using-machine-learning-al/edit) 
